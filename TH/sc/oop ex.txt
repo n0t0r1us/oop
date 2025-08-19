@@ -1,0 +1,35 @@
+
+// tính tổng các nghịch đảo tổng các số nguyên liên tiếp
+
+int n, i, t;
+double s;
+
+console.write("nhap so nguyen duong n: ");
+n = int.Parse(Console.Readline());
+
+s = 0;
+t=0;
+for(i=1; i<=n;i++)
+{
+	t += i;
+	s += 1 / (double)t;
+}
+// in kq
+Console.WriteLine("S = {0}",s);
+
+in số chính phương
+bool lascp(int n)
+{
+	if (n<0) return false;
+	int k = (int)Math.Sqrt(n);
+	return k*k == n;
+}
+
+// in scp 1st
+int count = 0;
+for(i=0; count < n; i++)
+	if(lascp(i))
+{
+	Console.Write("{0}",i);
+	count++;
+}

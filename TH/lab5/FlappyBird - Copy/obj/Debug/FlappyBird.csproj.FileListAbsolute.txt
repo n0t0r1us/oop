@@ -1,0 +1,44 @@
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\PC\Downloads\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Menu.resources
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Menu.resources
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\PC\Downloads\FlappyBird (1)\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\PC\Downloads\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\PC\Downloads\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\PC\Downloads\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\PC\Downloads\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\PC\Downloads\FlappyBird\obj\Debug\FlappyBird.Menu.resources
+C:\Users\PC\Downloads\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\PC\Downloads\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\PC\Downloads\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\PC\Downloads\FlappyBird - Copy\bin\Debug\FlappyBird.exe.config
+C:\Users\PC\Downloads\FlappyBird - Copy\bin\Debug\FlappyBird.exe
+C:\Users\PC\Downloads\FlappyBird - Copy\bin\Debug\FlappyBird.pdb
+C:\Users\PC\Downloads\FlappyBird - Copy\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\FlappyBird - Copy\obj\Debug\FlappyBird.Form1.resources
+C:\Users\PC\Downloads\FlappyBird - Copy\obj\Debug\FlappyBird.Menu.resources
+C:\Users\PC\Downloads\FlappyBird - Copy\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\PC\Downloads\FlappyBird - Copy\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FlappyBird - Copy\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FlappyBird - Copy\obj\Debug\FlappyBird.exe
+C:\Users\PC\Downloads\FlappyBird - Copy\obj\Debug\FlappyBird.pdb

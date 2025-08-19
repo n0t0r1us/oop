@@ -1,0 +1,16 @@
+C:\Users\PH Laptop\source\repos\TinhGiaXe\bin\Debug\netcoreapp3.1\TinhGiaXe.exe
+C:\Users\PH Laptop\source\repos\TinhGiaXe\bin\Debug\netcoreapp3.1\TinhGiaXe.deps.json
+C:\Users\PH Laptop\source\repos\TinhGiaXe\bin\Debug\netcoreapp3.1\TinhGiaXe.runtimeconfig.json
+C:\Users\PH Laptop\source\repos\TinhGiaXe\bin\Debug\netcoreapp3.1\TinhGiaXe.runtimeconfig.dev.json
+C:\Users\PH Laptop\source\repos\TinhGiaXe\bin\Debug\netcoreapp3.1\TinhGiaXe.dll
+C:\Users\PH Laptop\source\repos\TinhGiaXe\bin\Debug\netcoreapp3.1\TinhGiaXe.pdb
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.csproj.AssemblyReference.cache
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.Form1.resources
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.csproj.GenerateResource.cache
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.AssemblyInfoInputs.cache
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.AssemblyInfo.cs
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.csproj.CoreCompileInputs.cache
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.dll
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.pdb
+C:\Users\PH Laptop\source\repos\TinhGiaXe\obj\Debug\netcoreapp3.1\TinhGiaXe.genruntimeconfig.cache

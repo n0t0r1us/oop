@@ -1,0 +1,15 @@
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.exe
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.deps.json
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.runtimeconfig.json
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.dll
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.pdb
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.csproj.AssemblyReference.cache
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.AssemblyInfoInputs.cache
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.AssemblyInfo.cs
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.csproj.CoreCompileInputs.cache
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.dll
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\refint\DemoPolymorphism.dll
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.pdb
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.genruntimeconfig.cache
+D:\HuongDoiTuong\DemoPolymorphism\DemoPolymorphism\obj\Debug\net6.0\ref\DemoPolymorphism.dll

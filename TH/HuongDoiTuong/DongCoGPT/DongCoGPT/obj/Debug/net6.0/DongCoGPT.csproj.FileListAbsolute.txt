@@ -1,0 +1,15 @@
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\bin\Debug\net6.0\DongCoGPT.exe
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\bin\Debug\net6.0\DongCoGPT.deps.json
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\bin\Debug\net6.0\DongCoGPT.runtimeconfig.json
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\bin\Debug\net6.0\DongCoGPT.dll
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\bin\Debug\net6.0\DongCoGPT.pdb
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\DongCoGPT.csproj.AssemblyReference.cache
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\DongCoGPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\DongCoGPT.AssemblyInfoInputs.cache
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\DongCoGPT.AssemblyInfo.cs
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\DongCoGPT.csproj.CoreCompileInputs.cache
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\DongCoGPT.dll
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\refint\DongCoGPT.dll
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\DongCoGPT.pdb
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\DongCoGPT.genruntimeconfig.cache
+D:\HuongDoiTuong\DongCoGPT\DongCoGPT\obj\Debug\net6.0\ref\DongCoGPT.dll

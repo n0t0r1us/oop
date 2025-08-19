@@ -1,0 +1,10 @@
+D:\Code C#\TinhHinhTron\TinhHinhTron\obj\Debug\TinhHinhTron.csproj.AssemblyReference.cache
+D:\Code C#\TinhHinhTron\TinhHinhTron\obj\Debug\TinhHinhTron.Form1.resources
+D:\Code C#\TinhHinhTron\TinhHinhTron\obj\Debug\TinhHinhTron.Properties.Resources.resources
+D:\Code C#\TinhHinhTron\TinhHinhTron\obj\Debug\TinhHinhTron.csproj.GenerateResource.cache
+D:\Code C#\TinhHinhTron\TinhHinhTron\obj\Debug\TinhHinhTron.csproj.CoreCompileInputs.cache
+D:\Code C#\TinhHinhTron\TinhHinhTron\bin\Debug\TinhHinhTron.exe.config
+D:\Code C#\TinhHinhTron\TinhHinhTron\bin\Debug\TinhHinhTron.exe
+D:\Code C#\TinhHinhTron\TinhHinhTron\bin\Debug\TinhHinhTron.pdb
+D:\Code C#\TinhHinhTron\TinhHinhTron\obj\Debug\TinhHinhTron.exe
+D:\Code C#\TinhHinhTron\TinhHinhTron\obj\Debug\TinhHinhTron.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DongCoGPT/1.0.0": {
+        "runtime": {
+          "DongCoGPT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DongCoGPT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

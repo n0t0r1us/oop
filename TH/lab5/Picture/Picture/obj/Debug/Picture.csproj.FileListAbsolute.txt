@@ -1,0 +1,19 @@
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\bin\Debug\Picture.exe.config
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\bin\Debug\Picture.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\bin\Debug\Picture.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\obj\Debug\Picture.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\obj\Debug\Picture.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\obj\Debug\Picture.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\obj\Debug\Picture.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\obj\Debug\Picture.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Picture\Picture\obj\Debug\Picture.pdb
+C:\Users\Admin\Desktop\Picture\Picture\bin\Debug\Picture.exe.config
+C:\Users\Admin\Desktop\Picture\Picture\bin\Debug\Picture.exe
+C:\Users\Admin\Desktop\Picture\Picture\bin\Debug\Picture.pdb
+C:\Users\Admin\Desktop\Picture\Picture\obj\Debug\Picture.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Picture\Picture\obj\Debug\Picture.Form1.resources
+C:\Users\Admin\Desktop\Picture\Picture\obj\Debug\Picture.Properties.Resources.resources
+C:\Users\Admin\Desktop\Picture\Picture\obj\Debug\Picture.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Picture\Picture\obj\Debug\Picture.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Picture\Picture\obj\Debug\Picture.exe
+C:\Users\Admin\Desktop\Picture\Picture\obj\Debug\Picture.pdb

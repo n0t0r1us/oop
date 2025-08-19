@@ -1,0 +1,15 @@
+D:\HuongDoiTuong\XeDongCo\XeDongCo\bin\Debug\net6.0\XeDongCo.exe
+D:\HuongDoiTuong\XeDongCo\XeDongCo\bin\Debug\net6.0\XeDongCo.deps.json
+D:\HuongDoiTuong\XeDongCo\XeDongCo\bin\Debug\net6.0\XeDongCo.runtimeconfig.json
+D:\HuongDoiTuong\XeDongCo\XeDongCo\bin\Debug\net6.0\XeDongCo.dll
+D:\HuongDoiTuong\XeDongCo\XeDongCo\bin\Debug\net6.0\XeDongCo.pdb
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\XeDongCo.csproj.AssemblyReference.cache
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\XeDongCo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\XeDongCo.AssemblyInfoInputs.cache
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\XeDongCo.AssemblyInfo.cs
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\XeDongCo.csproj.CoreCompileInputs.cache
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\XeDongCo.dll
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\refint\XeDongCo.dll
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\XeDongCo.pdb
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\XeDongCo.genruntimeconfig.cache
+D:\HuongDoiTuong\XeDongCo\XeDongCo\obj\Debug\net6.0\ref\XeDongCo.dll

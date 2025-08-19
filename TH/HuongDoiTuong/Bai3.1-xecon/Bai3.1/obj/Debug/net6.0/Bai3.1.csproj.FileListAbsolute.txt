@@ -1,0 +1,15 @@
+D:\HuongDoiTuong\Bai3.1\Bai3.1\bin\Debug\net6.0\Bai3.1.exe
+D:\HuongDoiTuong\Bai3.1\Bai3.1\bin\Debug\net6.0\Bai3.1.deps.json
+D:\HuongDoiTuong\Bai3.1\Bai3.1\bin\Debug\net6.0\Bai3.1.runtimeconfig.json
+D:\HuongDoiTuong\Bai3.1\Bai3.1\bin\Debug\net6.0\Bai3.1.dll
+D:\HuongDoiTuong\Bai3.1\Bai3.1\bin\Debug\net6.0\Bai3.1.pdb
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\Bai3.1.csproj.AssemblyReference.cache
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\Bai3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\Bai3.1.AssemblyInfoInputs.cache
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\Bai3.1.AssemblyInfo.cs
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\Bai3.1.csproj.CoreCompileInputs.cache
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\Bai3.1.dll
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\refint\Bai3.1.dll
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\Bai3.1.pdb
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\Bai3.1.genruntimeconfig.cache
+D:\HuongDoiTuong\Bai3.1\Bai3.1\obj\Debug\net6.0\ref\Bai3.1.dll
